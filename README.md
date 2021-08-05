@@ -1,4 +1,4 @@
-This is an example .NET app that has dependencies managed by `packages.config` and uses multiple target frameworks.
+This is an example .NET app that has dependencies managed by `packages.config` and uses single target framework.
 
 ## Getting started
 
@@ -21,7 +21,7 @@ dotnet build
 
 ### Run the app
 
-Run for target framework net451
+Run for target framework net5.0
 
 ```bash
 dotnet run
